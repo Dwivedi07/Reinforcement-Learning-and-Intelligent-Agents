@@ -1,0 +1,4 @@
+REFERENCES:
+
+1) Slides
+2) https://www.coin-or.org/PuLP/index.html
