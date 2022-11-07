@@ -1,0 +1,6 @@
+
+References
+• https://www.cs.cmu.edu/ motionplanning/lecture/AppH-astar-dstarhowie.pdf
+• https://github.com/topics/a-star-algorithm?o=descs=updated
+• https://github.com/AtsushiSakai/PythonRobotics
+• https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Control/PurePursuit.html
